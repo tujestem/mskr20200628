@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7b570d70-6e12-4679-8eca-a9b842e42413/resourceGroups/mskrapphtml01/providers/Microsoft.Web/sites/mskrapphtml01",
+    "appService.deploySubpath": "."
+}
