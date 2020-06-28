@@ -9,6 +9,7 @@ var usersRouter = require('./routes/users');
 
 var app = express();
 // kometarz z g.2022
+// komentarz z g.2031
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
